@@ -4,3 +4,4 @@ function sayHello(name, surname) {
 }
 
 sayHello('Mariana', 'Kolesnichenko');
+// Comment #2
