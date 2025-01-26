@@ -1,6 +1,6 @@
-function sayHello(name, surname) {
+function sayHello(name, surname, someWord) {
   // New comment for rebase
-  console.log(`Hewllo ${name} ${surname}`); 
+  console.log(`Hewllo ${name} ${surname} ${someWord}`); 
 }
 // Comment for the branch 3
 sayHello('Mariana', 'Kolesnichenko');
